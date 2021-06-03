@@ -3,6 +3,12 @@
 ## 1) Rest api
 ## 2) Custom api
 
+|         | Link           |
+| ------------- |:-------------:| 
+| 1)      | [Front end - netlify](https://apollo-client-app.netlify.app/) |
+| 2)      | [back end - heroku](https://apollo-server-api-graphql.herokuapp.com/)    |  
+
+
 [Front end - netlify](https://apollo-client-app.netlify.app/)
 
 
